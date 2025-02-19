@@ -106,3 +106,11 @@
 * https://gitee.com/Lunatic-Works/Nova
 
 国内的小伙伴也可以用各种GitHub镜像网站来访问这个repo
+
+# 本项目魔改说明
+
+## 仓库结构
+
+`master`分支是从Nova原项目仓库fork来的，不作修改，供同步用。
+
+`dev`分支顾名思义，供本项目开发用的，可能对原框架进行破坏性修改。
